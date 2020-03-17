@@ -1,4 +1,4 @@
-<%@page import="com.board.model.BoardDTO"%>
+<%@page import="com.sist.model.BoardDTO"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <%
